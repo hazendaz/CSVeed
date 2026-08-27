@@ -16,7 +16,7 @@ simply add the following dependency:
         <dependency>
             <groupId>org.csveed</groupId>
             <artifactId>csveed</artifactId>
-            <version>0.7.4</version>
+            <version>0.9.0</version>
         </dependency>
 ```
 
@@ -27,7 +27,7 @@ previous SLF4J logger configured and you want to get up and running quickly, use
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
-            <version>2.0.7</version>
+            <version>2.0.18</version>
         </dependency>
 ```
 
